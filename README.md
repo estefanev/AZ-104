@@ -75,10 +75,9 @@ O projeto inclui a criação de uma VM com base no Windows Server 2019, alteraç
 
 ---
 
-## 🖼️ Documento em WORD
+## 🖼️ Documento em PDF
 
-[📄 criacaivm-104.docx](./criacaivm-104.docx)
-
+https://github.com/estefanev/AZ-104/blob/main/criacaovm-104.pdf
 ---
 
 ## 📂 Estrutura do Repositório
