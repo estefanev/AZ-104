@@ -77,7 +77,7 @@ O projeto inclui a criação de uma VM com base no Windows Server 2019, alteraç
 
 ## 🖼️ Documento em WORD
 
-
+[📄 criacaivm-104.docx](./criacaivm-104.docx)
 
 ---
 
